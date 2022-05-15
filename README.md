@@ -1,6 +1,5 @@
-- 👋 Hi, I’m David Shahbazyan (@davies080). I'm a Full-Stack Developer from Armenia
+- 👋 Hi, I’m David Shahbazyan (@davies080). I'm a Senior Software Developer from Armenia
 - 👀 I’m interested in Web and Android development
-- 💞️ I’m currently working as a full-stack developer
 - :headphones: My hobby is producing EDM and UK Drill type beats
 - :globe_with_meridians: https://www.linkedin.com/in/davies080
 
